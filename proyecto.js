@@ -1,0 +1,1 @@
+console.long("Inicio de proyecto")
